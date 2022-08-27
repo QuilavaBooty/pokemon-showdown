@@ -83031,4 +83031,21 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			{generation: 5, level: 47, moves: ["darkpulse", "flamethrower", "hyperbeam", "icebeam"]},
 		],
 	},
+	choose: {
+		learnset: {
+			transform: ["8L1", "8V", "7L1", "7V", "7S0", "6L1", "5L1", "4L1", "3L1"],
+		},
+		eventData: [
+			{generation: 7, level: 10, moves: ["transform"], pokeball: "cherishball"},
+		],
+		encounters: [
+			{generation: 1, level: 12},
+			{generation: 2, level: 10},
+			{generation: 3, level: 23},
+			{generation: 4, level: 10},
+			{generation: 5, level: 45},
+			{generation: 6, level: 30},
+			{generation: 7, level: 25},
+		],
+	},
 };

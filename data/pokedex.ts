@@ -17666,4 +17666,16 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered"],
 		gen: 5,
 	},
+	choose: {
+        num: -6000,
+        name: "Test",
+        types: ["Fire", "Fairy"],
+        genderRatio: {M: 0.5, F: 0.5},
+        baseStats: {hp: 70, atk: 90, def: 65, spa: 130, spd: 75, spe: 115},
+        abilities: {0: "Levitate", 1: "Flame Body", H: "Sheer Force"},
+        heightm: 0.4,
+        weightkg: 4.2,
+        color: "Orange",
+        eggGroups: ["Fairy"],
+    },
 };
