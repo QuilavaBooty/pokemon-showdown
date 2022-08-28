@@ -83031,7 +83031,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			{generation: 5, level: 47, moves: ["darkpulse", "flamethrower", "hyperbeam", "icebeam"]},
 		],
 	},
-	effignis: {
+	test: {
 		learnset: {
 			burnup: ["1L1"],
 			flamethrower: ["8M", "8V", "7M", "6M", "5M", "4M", "3M"],
