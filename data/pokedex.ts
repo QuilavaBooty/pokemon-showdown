@@ -17666,9 +17666,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered"],
 		gen: 5,
 	},
-	test: {
+	effignis: {
         num: -6000,
-        name: "Test",
+        name: "Effignis",
         types: ["Fire", "Fairy"],
         genderRatio: {M: 0.5, F: 0.5},
         baseStats: {hp: 70, atk: 90, def: 65, spa: 130, spd: 75, spe: 115},
